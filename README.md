@@ -1,9 +1,9 @@
 # cifar100_5_classes
 
 5 randomly chosen classes from cifar 100 class are used to train a convolutional neural network until convergence. 
-Training and validation data for each of the 5 classes are seperated. 
+Training and validation data for each of the 5 classes are different. 
 
-After a few hundred rounds of optimization, training and validation loss and accuracy are ploted. See figures below.
+After a few hundred rounds of optimization, training and validation loss and accuracy are plotted. See figures below.
 
 # 1
 <img width="544" alt="6" src="https://user-images.githubusercontent.com/38367749/58095892-ea28bc00-7ba1-11e9-88df-e33014a37655.png">
